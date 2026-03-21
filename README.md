@@ -1,2 +1,3 @@
-# auto-survey-tool-cciq
-Automated issue comment bot repository
+# Auto Survey Tool Cciq
+
+Automated issue comment bot repository.
